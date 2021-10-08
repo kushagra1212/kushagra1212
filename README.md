@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/kushagra1212/kushagra1212/blob/main/profile.gif" align="bottom" height="300" width="300"  >
+<img src="https://github.com/kushagra1212/kushagra1212/blob/main/profile.gif" align="bottom" height="400" width="500"  >
 
 ### Languages
 
