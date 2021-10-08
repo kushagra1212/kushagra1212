@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![](https://github.com/kushagra1212/kushagra1212/blob/main/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+
+<img src="https://github.com/kushagra1212/kushagra1212/blob/main/profile.gif" align="bottom" height="300" width="300"  >
 
 ### Languages
 
@@ -16,7 +17,7 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/kushagra1212/Eimentum)
+[![]()](https://github.com/kushagra1212/Eimentum)
 
 
 
