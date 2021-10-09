@@ -21,10 +21,10 @@
 ### Full Stack Projects
 
 
-<a href="https://eimentum.vercel.app/">
+<!-- <a href="https://eimentum.vercel.app/">
   <img src="https://eimentum.vercel.app/logo.svg#svgView(viewBox(5, 4, 2, 5))" height="200" width="200" />
 </a>
-
+ -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=Eimentum)](https://github.com/kushagra1212/Eimentum)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=chat-app)](https://github.com/kushagra1212/chat-app)
 
