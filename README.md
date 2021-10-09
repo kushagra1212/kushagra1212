@@ -13,11 +13,14 @@
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs)
 
 
 ### Full Stack Projects
 
-[![]()](https://github.com/kushagra1212/Eimentum)
+![Eimentum](https://github.com/kushagra1212/Eimentum)
 
 
 
