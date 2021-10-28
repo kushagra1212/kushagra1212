@@ -34,18 +34,19 @@
 </a>
  -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=Eimentum)](https://github.com/kushagra1212/Eimentum) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=chat-app)](https://github.com/kushagra1212/chat-app) 
+
 </div>
 
 
 <div align="center">
-
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=chat-app)](https://github.com/kushagra1212/chat-app) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=YouTube-video-Downloader)](https://github.com/kushagra1212/YouTube-video-Downloader)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=voice-news)](https://github.com/kushagra1212/voice-news)
+
 </div>
   
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=voice-news)](https://github.com/kushagra1212/voice-news)
 
   
   
