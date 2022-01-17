@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm
 
-<img src="https://github.com/kushagra1212/kushagra1212/blob/main/profile.gif" align="left" height="400" width="400"  >
+<img src="https://github.com/kushagra1212/kushagra1212/blob/main/profile.gif" align="left" height="350" width="400"  >
 <div align="center">
   
-  <h3><bold>Languages</bold></h3>
+ <h2><bold>Languages</bold></h3>
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -24,8 +24,7 @@
 
 </div>
 
-<div align="center" >
-
+<div align="center" > 
 <h3><bold>Full Stack Projects</bold></h3>
 
 <!-- <a href="https://eimentum.vercel.app/">
@@ -33,21 +32,16 @@
 </a>
  -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=Eimentum)](https://github.com/kushagra1212/Eimentum) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=Eimentum)](https://github.com/kushagra1212/Eimentum) 
 
-</div>
 
-
-<div align="center">
- 
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=chat-app)](https://github.com/kushagra1212/chat-app) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=YouTube-video-Downloader)](https://github.com/kushagra1212/YouTube-video-Downloader)
 
-</div>
-  
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=voice-news)](https://github.com/kushagra1212/voice-news)
 
-  
+ </div> 
   
 
 [![Bilal's github activity graph](https://activity-graph.herokuapp.com/graph?username=kushagra1212&theme=xcode)](https://git.io/kushagra1212) <br/>
