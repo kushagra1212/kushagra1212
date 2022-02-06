@@ -44,8 +44,6 @@
  </div> 
   
 
-[![](https://activity-graph.herokuapp.com/graph?username=kushagra1212&theme=xcode)](https://git.io/kushagra1212) <br/>
-
 <div align="center">
   <a  href="/"><img align="right" height="137px" src="https://github-readme-stats.vercel.app/api?username=kushagra1212&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kushagra1212)]() -->
