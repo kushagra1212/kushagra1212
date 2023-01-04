@@ -1,12 +1,10 @@
 
-  ### 
+  ###  Hi there 👋 I'm Full Stack Developer  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div>
  <div align="center">
-   <h2>Hi there 👋 I'm Full Stack Developer </h2>
+ 
 </div>
- <div align="right">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
   
 </div>
 
