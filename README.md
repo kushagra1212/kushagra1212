@@ -49,6 +49,8 @@
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kushagra1212)]() -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra1212&langs_count=8)]()
+    
+![](https://leetcard.jacoblin.cool/kushagra1212?ext=heatmap)
 </div>
 
 
