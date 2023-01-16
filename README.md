@@ -45,14 +45,14 @@
 </a>
  -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=Eimentum)](https://github.com/kushagra1212/Eimentum) -->
-[![Readme Card](github-readme-stats-8vgds3mad-kushagra1212.vercel.app/api/pin/?username=kushagra1212&repo=Eimentum&theme=highcontrast)](https://github.com/kushagra1212/Eimentum) 
+[![Readme Card](https://github-readme-stats-kushagra1212.vercel.app/api/pin/?username=kushagra1212&repo=Eimentum&theme=highcontrast)](https://github.com/kushagra1212/Eimentum) 
 
 
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=chat-app&theme=highcontrast)](https://github.com/kushagra1212/chat-app) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=YouTube-video-Downloader&theme=highcontrast)](https://github.com/kushagra1212/YouTube-video-Downloader)
+[![Readme Card](https://github-readme-stats-kushagra1212.vercel.app/api/pin/?username=kushagra1212&repo=chat-app&theme=highcontrast)](https://github.com/kushagra1212/chat-app) 
+[![Readme Card](https://github-readme-stats-kushagra1212.vercel.app/api/pin/?username=kushagra1212&repo=YouTube-video-Downloader&theme=highcontrast)](https://github.com/kushagra1212/YouTube-video-Downloader)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=voice-news&theme=highcontrast)](https://github.com/kushagra1212/voice-news)
+[![Readme Card](https://github-readme-stats-kushagra1212.vercel.app/api/pin/?username=kushagra1212&repo=voice-news&theme=highcontrast)](https://github.com/kushagra1212/voice-news)
 
  </div> 
   
@@ -60,9 +60,9 @@
  <!-- <a  href="/"><img align="right" height="137px" src="https://github-readme-stats.vercel.app/api?username=kushagra1212&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kushagra1212)]() -->
 
-![](https://github-readme-stats.vercel.app/api?username=kushagra1212&theme=highcontrast)
+![](https://github-readme-stats-kushagra1212.vercel.app/api?username=kushagra1212&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra1212&langs_count=8&theme=highcontrast)
+![Top Langs](https://github-readme-stats-kushagra1212.vercel.app/api/top-langs/?username=kushagra1212&langs_count=8&theme=highcontrast)
 ![](https://leetcard.jacoblin.cool/kushagra1212?ext=heatmap)
 </div>
 
