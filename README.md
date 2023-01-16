@@ -45,7 +45,7 @@
 </a>
  -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=Eimentum)](https://github.com/kushagra1212/Eimentum) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=Eimentum&theme=highcontrast)](https://github.com/kushagra1212/Eimentum) 
+[![Readme Card](github-readme-stats-8vgds3mad-kushagra1212.vercel.app/api/pin/?username=kushagra1212&repo=Eimentum&theme=highcontrast)](https://github.com/kushagra1212/Eimentum) 
 
 
   
