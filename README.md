@@ -46,7 +46,7 @@
  -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=Eimentum)](https://github.com/kushagra1212/Eimentum) -->
 [![Readme Card](https://github-readme-stats-kushagra1212.vercel.app/api/pin/?username=kushagra1212&repo=Eimentum&theme=highcontrast)](https://github.com/kushagra1212/Eimentum) 
-
+[![Readme Card](https://github-readme-stats-kushagra1212.vercel.app/api/pin/?username=kushagra1212&repo=foundo-app&theme=highcontrast)](https://github.com/kushagra1212/foundo-app) 
 
   
 [![Readme Card](https://github-readme-stats-kushagra1212.vercel.app/api/pin/?username=kushagra1212&repo=chat-app&theme=highcontrast)](https://github.com/kushagra1212/chat-app) 
