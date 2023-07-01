@@ -1,5 +1,5 @@
 
-  ###  Hi there 👋 I'm Full Stack Developer  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  ###  Hi there 👋   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div>
  <div align="center">
  
@@ -57,18 +57,27 @@
 
  </div> 
  -->
+ 
 <div align="center">
- <!-- <a  href="/"><img align="right" height="137px" src="https://github-readme-stats.vercel.app/api?username=kushagra1212&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV 
+ <!-- <a  href="/"><img align="right" height="137px" src="https://github-readme-stats.vercel.app/api?username=kushagra1212&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  ![](https://leetcard.jacoblin.cool/kushagra1212?ext=heatmap)
+  ![Top Langs](https://github-readme-stats-kushagra1212.vercel.app/api/top-langs/?username=kushagra1212&langs_count=8&theme=highcontrast)
+  
+  <!-- wi*quL3fcV 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kushagra1212)]() -->
 
 ![](https://github-readme-stats-kushagra1212.vercel.app/api?username=kushagra1212&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats-kushagra1212.vercel.app/api/top-langs/?username=kushagra1212&langs_count=8&theme=highcontrast)
-![](https://leetcard.jacoblin.cool/kushagra1212?ext=heatmap)
 <p float="left">
-  <img src="https://wakatime.com/share/@kushhagra/062dc0d5-8b66-415f-b34f-090cea6f7a8c.svg" alt="Wakatime Stats" width="400" height="300" style="margin-right: 200px;">
-  <img src="https://wakatime.com/share/@kushhagra/5482bfcc-347f-4f6f-aadb-7ff00a88ad11.svg" alt="Wakatime Stats" width="400" height="300">
+  <img src="https://wakatime.com/share/@kushhagra/062dc0d5-8b66-415f-b34f-090cea6f7a8c.svg" alt="Wakatime Stats" width="500" height="400" style="margin-right: 200px;">
+  <img src="https://wakatime.com/share/@kushhagra/5482bfcc-347f-4f6f-aadb-7ff00a88ad11.svg" alt="Wakatime Stats" width="500" height="400">
 </p>
+
+<img src="https://github-readme-stats-kushagra1212.vercel.app/api/top-langs/?username=kushagra1212&langs_count=8&theme=highcontrast" width="500" height="500">
+<img src="https://leetcard.jacoblin.cool/kushagra1212?ext=heatmap" width="500" height="500">
+
+
+
 
 </div>
 
