@@ -65,7 +65,11 @@
 
 ![Top Langs](https://github-readme-stats-kushagra1212.vercel.app/api/top-langs/?username=kushagra1212&langs_count=8&theme=highcontrast)
 ![](https://leetcard.jacoblin.cool/kushagra1212?ext=heatmap)
-</div>
+<p float="left">
+  <img src="https://wakatime.com/share/@kushhagra/062dc0d5-8b66-415f-b34f-090cea6f7a8c.svg" alt="Wakatime Stats" width="400" height="300" style="margin-right: 200px;">
+  <img src="https://wakatime.com/share/@kushhagra/5482bfcc-347f-4f6f-aadb-7ff00a88ad11.svg" alt="Wakatime Stats" width="400" height="300">
+</p>
 
+</div>
 
 
