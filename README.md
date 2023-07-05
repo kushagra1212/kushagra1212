@@ -74,8 +74,8 @@
 <img src="https://leetcard.jacoblin.cool/kushagra1212?ext=heatmap" width="400" height="400">
 
 <p float="left">
-  <img src="https://wakatime.com/share/@kushhagra/dd3a44a8-9728-4072-af06-23e879400510.svg" alt="Wakatime Stats" width="400" height="300" style="margin-right: 200px;">
-  <img src="https://wakatime.com/share/@kushhagra/b5ce743c-0794-4159-bfe0-1618c73ad7df.svg"" alt="Wakatime Stats" width="400" height="300">
+  <img src="https://wakatime.com/share/@kushhagra/dd3a44a8-9728-4072-af06-23e879400510.svg" alt="Wakatime Stats" width="800" height="800" style="margin-right: 200px;">
+  <img src="https://wakatime.com/share/@kushhagra/b5ce743c-0794-4159-bfe0-1618c73ad7df.svg" alt="Wakatime Stats" width="800" height="800">
 </p>
 
 
