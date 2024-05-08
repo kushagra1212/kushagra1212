@@ -66,7 +66,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kushagra1212)]() -->
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra1212&langs_count=20&theme=highcontrast" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra1212&langs_count=12&theme=highcontrast" >
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/kushagra1212?ext=heatmap" width="400" height="400">
 
