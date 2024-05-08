@@ -68,7 +68,7 @@
 
 
 
-<img src="https://github-readme-stats-kushagra1212.vercel.app/api/top-langs/?username=kushagra1212&langs_count=8&theme=highcontrast" width="400" height="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra1212&langs_count=20&theme=highcontrast" width="400" height="400">
 
 <img src="https://github-readme-stats-kushagra1212.vercel.app/api?username=kushagra1212&theme=highcontrast" width="400" height="400">
 
