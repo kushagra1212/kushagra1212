@@ -1,5 +1,4 @@
-
-  ###  Hi there 👋   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div>
  <div align="center">
  
@@ -7,6 +6,15 @@
 
 
 </div>
+
+  <!-- profile logo  -->
+  <div>
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=kushagra1212&label=Views&color=orange&style=flat" alt="visitor" />&emsp;
+    <!-- wakatime -->    
+    <a href="https://wakatime.com/@kushhagra"><img src="https://wakatime.com/badge/user/056fef99-f1a4-466e-aa25-6861dc331328.svg" alt="Total time coded since May 29 2023" /></a>
+
+  </div>
 
 
 <div align="center" > 
@@ -36,6 +44,21 @@
 
 
 </div>
+
+
+<h3>📊 WakaTime</h3> 
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@kushhagra&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true&langs_count=20"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@kushhagra&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true&langs_count=20"
+    media="(prefers-color-scheme: light)"
+  />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kushhagra&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true&langs_count=20" />
+</picture>
 <!--
 <div align="center" > 
 <h3><bold>Full Stack Projects</bold></h3>
@@ -66,18 +89,20 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kushagra1212)]() -->
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra1212&langs_count=12&theme=highcontrast" >
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra1212&langs_count=12&theme=highcontrast" >
 <div align="center">
+-->
 <img src="https://leetcard.jacoblin.cool/kushagra1212?ext=heatmap" width="400" height="400">
 
 <img src="https://github-readme-stats-kushagra1212.vercel.app/api?username=kushagra1212&theme=highcontrast" width="400" height="400">
 
-<img src="https://wakatime.com/share/@kushhagra/dd3a44a8-9728-4072-af06-23e879400510.svg" alt="Wakatime Stats" width="400" height="400" style="margin-right: 200px;">
+<!-- <img src="https://wakatime.com/share/@kushhagra/dd3a44a8-9728-4072-af06-23e879400510.svg" alt="Wakatime Stats" width="400" height="400" style="margin-right: 200px;">
 <div align="center">
-
+-->
 
 <!-- <img src="https://wakatime.com/share/@kushhagra/b5ce743c-0794-4159-bfe0-1618c73ad7df.svg" alt="Wakatime Stats" width="400" height="400">
  -->
+
 
 
 </div>
