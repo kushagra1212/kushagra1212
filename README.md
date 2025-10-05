@@ -14,8 +14,6 @@
 
   <!-- profile logo  -->
   <div>
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=kushagra1212&label=Views&color=orange&style=flat" alt="visitor" />&emsp;
     <!-- wakatime -->    
     <a href="https://wakatime.com/@kushhagra"><img src="https://wakatime.com/badge/user/056fef99-f1a4-466e-aa25-6861dc331328.svg" alt="Total time coded since May 29 2023" /></a>
 
