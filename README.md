@@ -1,128 +1,119 @@
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<div>
- <div align="center">
- 
-</div>
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://dapengfeng.github.io">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome!&center=true&size=27" />
-    </a>
-  </div>
-
-</div>
-
-  <!-- profile logo  -->
-  <div>
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@kushhagra"><img src="https://wakatime.com/badge/user/056fef99-f1a4-466e-aa25-6861dc331328.svg" alt="Total time coded since May 29 2023" /></a>
-
-  </div>
-
-
-<div align="center" > 
-
- <h3><bold>Technologies & Skill</bold></h3>
- 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-404D59?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-</div>
-
-
-<h3>📊 WakaTime</h3> 
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@kushhagra&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true&langs_count=20"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@kushhagra&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true&langs_count=20"
-    media="(prefers-color-scheme: light)"
-  />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kushhagra&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true&langs_count=20" />
-</picture>
 <!--
-<div align="center" > 
-<h3><bold>Full Stack Projects</bold></h3>
+  GitHub profile README for github.com/kushagra1212
+  Put this file at:  kushagra1212/kushagra1212  →  README.md
+-->
 
-<!-- <a href="https://eimentum.vercel.app/">
-  <img src="https://eimentum.vercel.app/logo.svg#svgView(viewBox(5, 4, 2, 5))" height="200" width="200" />
+<div align="center">
+
+<a href="https://flowwing.frii.site/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&width=600&height=60&center=true&vCenter=true&size=26&lines=Kushagra+Rathore;Full-Stack+Engineer;Author+of+the+Flow-Wing+language" alt="Kushagra Rathore — Full-Stack Engineer" />
 </a>
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushagra1212&repo=Eimentum)](https://github.com/kushagra1212/Eimentum)
-[![Readme Card](https://github-readme-stats-kushagra1212.vercel.app/api/pin/?username=kushagra1212&repo=Eimentum&theme=highcontrast)](https://github.com/kushagra1212/Eimentum) 
-[![Readme Card](https://github-readme-stats-kushagra1212.vercel.app/api/pin/?username=kushagra1212&repo=foundo-app&theme=highcontrast)](https://github.com/kushagra1212/foundo-app) 
-
-  
-[![Readme Card](https://github-readme-stats-kushagra1212.vercel.app/api/pin/?username=kushagra1212&repo=chat-app&theme=highcontrast)](https://github.com/kushagra1212/chat-app) 
-[![Readme Card](https://github-readme-stats-kushagra1212.vercel.app/api/pin/?username=kushagra1212&repo=YouTube-video-Downloader&theme=highcontrast)](https://github.com/kushagra1212/YouTube-video-Downloader)
-
-[![Readme Card](https://github-readme-stats-kushagra1212.vercel.app/api/pin/?username=kushagra1212&repo=voice-news&theme=highcontrast)](https://github.com/kushagra1212/voice-news)
-
-
- </div> 
- -->
- 
-<div align="center">
- <!-- <a  href="/"><img align="right" height="137px" src="https://github-readme-stats.vercel.app/api?username=kushagra1212&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  ![](https://leetcard.jacoblin.cool/kushagra1212?ext=heatmap)
-  ![Top Langs](https://github-readme-stats-kushagra1212.vercel.app/api/top-langs/?username=kushagra1212&langs_count=8&theme=highcontrast)
-  
-  <!-- wi*quL3fcV 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kushagra1212)]() -->
-
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra1212&langs_count=12&theme=highcontrast" >
-<div align="center">
--->
-<img src="https://leetcard.jacoblin.cool/kushagra1212?ext=heatmap" width="400" height="400">
-
-<img src="https://github-readme-stats-kushagra1212.vercel.app/api?username=kushagra1212&theme=highcontrast" width="400" height="400">
-
-<!-- <img src="https://wakatime.com/share/@kushhagra/dd3a44a8-9728-4072-af06-23e879400510.svg" alt="Wakatime Stats" width="400" height="400" style="margin-right: 200px;">
-<div align="center">
--->
-
-<!-- <img src="https://wakatime.com/share/@kushhagra/b5ce743c-0794-4159-bfe0-1618c73ad7df.svg" alt="Wakatime Stats" width="400" height="400">
- -->
-
-
 
 </div>
-  <p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
 
-<!-- <p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
-</p> -->
+---
 
-<p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=kosthi.kosthi" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=kushagra1212.414956301" alt="visitor badge"/>       
-</p>
+I’m a **Full-Stack Engineer** at **Badho Technologies** — I ship products end-to-end across
+backend, mobile and infrastructure. When the tooling got in my way, I built my own
+programming language.
 
-</p>
+- 🛠 Building scalable backends, high-performance React Native, and cost-efficient cloud infra
+- 🧪 Author of **[Flow-Wing](https://github.com/kushagra1212/Flow-Wing)** — an experimental C++/LLVM language (AOT + JIT, REPL, LSP, GC)
+- 🌐 Flow-Wing is live at **[flowwing.frii.site](https://flowwing.frii.site/)** — its own site is served *by Flow-Wing*
+- 📫 Reach me: **kushagrarathore002@gmail.com**
 
+---
+
+### ⚙️ Featured — Flow-Wing
+
+A statically + dynamically typed language built on **C++ / LLVM**: custom lexer, parser and IR,
+**AOT & JIT** compilers, a REPL, garbage collection, modules, and full **LSP** support for VS Code.
+
+[![Flow-Wing](https://img.shields.io/badge/Flow--Wing-repo-4F8BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushagra1212/Flow-Wing)
+[![Live](https://img.shields.io/badge/Live-flowwing.frii.site-36E0A0?style=for-the-badge)](https://flowwing.frii.site/)
+[![Docs](https://img.shields.io/badge/Docs-read-F2B66B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://flow-wing-docs.vercel.app/)
+
+---
+
+### 🧱 Stack
+
+**Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+**Infra & Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/kushagra1212?style=for-the-badge&logo=github&color=4F8BFF&labelColor=0B0E13)](https://github.com/kushagra1212?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/kushagra1212?style=for-the-badge&logo=github&color=36E0A0&labelColor=0B0E13)](https://github.com/kushagra1212)
+[![Coding since](https://img.shields.io/badge/coding%20since-May%202023-F2B66B?style=for-the-badge&labelColor=0B0E13)](https://wakatime.com/@kushhagra)
+
+<br/>
+
+<a href="https://wakatime.com/@kushhagra">
+  <img alt="WakaTime stats" src="https://wakatime.com/badge/user/056fef99-f1a4-466e-aa25-6861dc331328.svg" />
+</a>
+
+<br/><br/>
+
+<img height="170" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra1212&theme=tokyonight&hide_border=true&background=00000000&ring=4F8BFF&fire=36E0A0&currStreakLabel=4F8BFF" />
+
+<br/>
+
+<!--
+<img width="460" alt="LeetCode" src="https://leetcard.jacoblin.cool/kushagra1212?theme=dark&ext=heatmap" />
+
+-->
+</div>
+
+<!-- Want the classic GitHub-stats + top-langs cards too?
+     The public github-readme-stats.vercel.app instance is frequently
+     paused (returns HTTP 503 — that's why those images broke).
+     Self-host your own (≈5-min Vercel deploy):
+       https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+     Then point these at YOUR-INSTANCE.vercel.app and uncomment:
+  <img src="https://YOUR-INSTANCE.vercel.app/api?username=kushagra1212&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=00000000" />
+  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=kushagra1212&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000" />
+-->
+
+
+---
+
+### 🔗 Connect
+
+<!-- VERIFY before publishing:
+     • LinkedIn URL below is a guess (handle assumed = kushagra1212) — replace with your real /in/ slug
+     • LeetCode handle kushagra1212 (matches your leetcard); confirm
+     • Add your portfolio URL once the Career Compiler is deployed -->
+
+[![Flow-Wing](https://img.shields.io/badge/Flow--Wing-flowwing.frii.site-36E0A0?style=for-the-badge)](https://flowwing.frii.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra1212)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kushagrarathore002)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kushagra1212)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagrarathore002@gmail.com)
+
+</div>
