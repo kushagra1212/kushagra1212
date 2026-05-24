@@ -13,7 +13,7 @@
 
 ---
 
-I’m a **Full-Stack Engineer** at **Badho Technologies** — I ship products end-to-end across
+I’m a **Full-Stack Engineer**** — I ship products end-to-end across
 backend, mobile and infrastructure. When the tooling got in my way, I built my own
 programming language.
 
