@@ -16,7 +16,7 @@
 I’m a **Full-Stack Engineer** — I ship products end-to-end across
 backend, mobile and infrastructure. When the tooling got in my way, I built my own
 programming language.
-
+- 🌐 **[Kushagra Rathore](https://kushagra.frii.site/)**
 - 🛠 Building scalable backends, high-performance React Native, and cost-efficient cloud infra
 - 🧪 Author of **[Flow-Wing](https://github.com/kushagra1212/Flow-Wing)** — an experimental C++/LLVM language (AOT + JIT, REPL, LSP, GC)
 - 🌐 Flow-Wing is live at **[flowwing.frii.site](https://flowwing.frii.site/)** — its own site is served *by Flow-Wing*
